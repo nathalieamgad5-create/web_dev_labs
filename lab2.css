@@ -29,4 +29,16 @@ text-align: center;
     display: inline-block;
     margin: 0 15px;
 }
+.last{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+}
+.include{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+}
 
