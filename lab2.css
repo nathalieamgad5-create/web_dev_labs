@@ -1,0 +1,32 @@
+.box{
+border :2px black;
+background-color: black;
+color: white;
+text-align: center;
+}
+
+.box2{
+    text-align: center;
+}
+
+.box3{
+    text-align: center;
+}
+
+.projects-div{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+}
+.paragraph{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10px;
+}
+.p1{
+    display: inline-block;
+    margin: 0 15px;
+}
+
